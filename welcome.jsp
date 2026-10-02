@@ -1,0 +1,14 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+
+<h2>Login Successful</h2>
+<h3>Welcome, Student!</h3>
+
+</body>
+</html>
